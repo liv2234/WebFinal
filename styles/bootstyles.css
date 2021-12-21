@@ -1,0 +1,38 @@
+.tableauheader {
+    height: 150px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:midnightblue;
+} 
+
+.tableaubody {
+    margin-left: 90px;
+    margin-right: 90px;
+    font-family:unset;
+    font-size: 8px;
+    font-style:oblique;
+}
+
+.customp {
+    text-align: center;
+    font-variant: inherit;
+    font-style: oblique;
+    font-weight: normal;
+}
+
+.custom2 {
+    text-align: center;
+    font-stretch:wider;
+    font-style:normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:black;
+    border-style: double;
+    border-color: oldlace;
+}
+
+.tableaufooter {
+    text-align: center;
+    height: 80px;
+    color:grey;
+}
