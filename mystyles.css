@@ -1,0 +1,66 @@
+.common {
+    margin-right: 75px;
+    margin-left: 75px;
+    min-width: 300px;
+}
+
+    .header {
+        height: 150px;
+        margin-top: 20px;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:midnightblue;
+    } 
+
+    .footer {
+        text-align: center;
+        border-top: solid 2px green;
+        height: 80px;
+        color: darkblue;
+        border: solid 1px burlywood;
+    }
+
+    .mymain {
+        margin-left: 90px;
+        margin-right: 90px;
+        font-family:unset;
+        font-size: 8px;
+        font-style:oblique;
+    }
+    .mainp {
+        padding: 0pt;
+        font-size: 11pt;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .pic {
+        display: block;
+        margin-left: 0px;
+        margin-right:0px;
+        width: 10%;
+    }
+
+    .column {
+        float: left;
+        width: 30%;
+    }
+
+    .clearfloat {
+        clear: both;
+    }
+/* 
+
+
+.common {
+    margin-right: ;
+    margin-left: ;
+    min-width: ;
+}
+
+.header {
+    height: ;
+    margin-top: ;
+    text-align: ;
+    font-family: ;
+} 
